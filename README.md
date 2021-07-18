@@ -8,4 +8,4 @@ In this project, I am building a framework to
 	<li>... (work in progress)
 </ul>
 
-The second part of this project will be a framework to price different financial products such as different kind of bonds, or derivative products (e.g. different options), and use Monte-Carlo simulation to show expected returns of different strategies using derivative products.
+The second part of this project will be a framework to price different financial products such as different kinds of bonds, or derivative products (e.g. options), and use Monte-Carlo simulation to show expected returns of certain (hedging) strategies using derivatives.
