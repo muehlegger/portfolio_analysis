@@ -1,3 +1,6 @@
+# Portfolio Analysis, Asset Pricing and Monte-Carlo Simulations
+This is an ongoing project to assess the performance of a portfolio, find optimal weighting of the assets, and price different financial products.
+
 In this project, I am building a framework to 
 <ul>
 	<li>load stock data from yahoo finance
